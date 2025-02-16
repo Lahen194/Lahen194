@@ -7,9 +7,9 @@ Passionate third-year student eager for new experience and growth oppurtunities 
 Go check my [Linkedin](https://www.linkedin.com/in/fakhiralahen/).
 
 <p align="left">
-<a href="https://github.com/fakhiralahen">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=lahen194&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=lahen194&layout=compact&theme=algolia"/>
+<a href="https://github.com/Lahen194">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Lahen194&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Lahen194&layout=compact&theme=algolia"/>
 </a>
 </p>
 
